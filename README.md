@@ -2,7 +2,7 @@
 
 **English** | [日本語](#日本語)
 
-🔗 **[noesia.jp](https://noesia.jp)** | **[noesia.onrender.com](https://noesia.onrender.com)**
+🔗 **[noesia.onrender.com](https://noesia.onrender.com)**
 
 ---
 
@@ -68,7 +68,7 @@ Unlike personality tests or coaching tools, Noesia doesn't try to make your thin
 
 **[English](#noesia)** | **日本語**
 
-🔗 **[noesia.jp](https://noesia.jp)** | **[noesia.onrender.com](https://noesia.onrender.com)**
+🔗 **[noesia.onrender.com](https://noesia.onrender.com)**
 
 ---
 
